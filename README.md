@@ -14,6 +14,7 @@ The dataset used in this project is obtained from Kaggle and contains the follow
 - `Seats`: Number of seats in the car.
 - `Fuel_Type`: Type of fuel used by the car.
 - `Transmission`: Type of transmission (Automatic/Manual).
+- 'Dimensions' : Length,Breadth and width of the car
 
 ## Analysis
 The analysis includes the following steps:
